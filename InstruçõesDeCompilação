@@ -1,5 +1,5 @@
 Para uma melhor compilação, digite o seguinte comando no terminal:
-g++ -Wall -Wextra -pedantic -std=C++17 main.cpp deque.hpp -o main.out
+g++ -Wall -Wextra -pedantic --std=c++17 main.cpp deque.hpp -o main.out
 
 Para executar o programa, digite:
 ./main.out
